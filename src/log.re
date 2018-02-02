@@ -1,0 +1,1 @@
+let addOne = fun a => a+1 
